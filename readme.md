@@ -5,4 +5,4 @@
 
 ## Project on GitPages:
 
-[Project link](https://tatiananikulina.github.io/mesto-project/index.html)
+[Project link](https://tatiananikulina.github.io/Playlist-builder/index.html)
